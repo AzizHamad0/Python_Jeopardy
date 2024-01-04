@@ -12,7 +12,7 @@ Welcome to my Python Jeopardy Game project! This game is a tribute to the classi
 
 ## How to Play
 
-1. Clone the repository to your local machine.
+1. Download the Python_Jeopardy zip file and unzip it.
 2. Ensure you have Python and Pygame installed.
 3. Run `Python_Jeopardy.py` to start the game.
 4. Choose a category and a point value to reveal a question.
